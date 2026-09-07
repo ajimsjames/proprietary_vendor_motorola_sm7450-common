@@ -348,7 +348,6 @@ PRODUCT_PACKAGES += \
     libcpion \
     libcv_common \
     libcvp2_1 \
-    libdapparamstorage \
     libdataitems \
     libdiag \
     libdigital-dimming \
